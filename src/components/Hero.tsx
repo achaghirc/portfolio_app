@@ -45,7 +45,7 @@ export default function Hero() {
         <GridItem w='100%' h='10'>
            <SimpleGrid templateRows={'repeat(3, 0fr)'} gap={0}>
             <Box w='100%' h='100%' style={style} id='about'>
-                <Text variant={'body'} style={textJustifyStyle}>
+                <Text variant={'body'} style={textJustifyStyle} marginTop={10}>
                     I am a passionate and dedicated Software Engineer with extensive knowledge in Java, Spring Boot, React, AWS, Docker, and Jenkins.
                     With nearly four years of professional experience, I have honed my technical expertise and developed strong soft skills. In my current
                     role as a Senior Software Engineer at Ayesa Advanced Technologies, I have successfully managed a team of four developers,
