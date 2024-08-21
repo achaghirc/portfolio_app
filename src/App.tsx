@@ -18,7 +18,7 @@ function App() {
 
   //Download the resume pdf locate in assets with name Amine Chaghir.pdf
   const onDownload = () => {
-    window.open('https://drive.google.com/file/d/15rf_h0TcokiSvhqVXgfDAHKiA4svBM6t/view?usp=sharing', '_blank')
+    window.open('https://drive.google.com/file/d/18IG4O-kFagAv11Brx7xKL_Fnxolh1q81/view?usp=sharing', '_blank')
   }
   return (
     <ChakraProvider theme={theme}>
