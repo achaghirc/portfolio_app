@@ -1,5 +1,5 @@
-import { LinkIcon, MinusIcon } from '@chakra-ui/icons'
-import { Box, Grid, GridItem, Heading, Link, LinkBox, LinkOverlay, ListIcon, ListItem, SimpleGrid, Text } from '@chakra-ui/react'
+import { MinusIcon } from '@chakra-ui/icons'
+import { Box, Grid, GridItem, Heading, Link, LinkBox, LinkOverlay, SimpleGrid, Text } from '@chakra-ui/react'
 import React from 'react'
 
 export default function Hero() {
