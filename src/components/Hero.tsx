@@ -157,14 +157,3 @@ const style : React.CSSProperties = ({
     alignItems: 'start',
     marginTop: '15%',
 })
-
-const PrefixLine = (props: any) => {
-    return (
-        <Box style={{
-            width: '100%',
-            height: '1px',
-        }}>
-            <MinusIcon _selected={props.selected} style={{transform: 'revert', color: props.selected ? 'blue' : 'white'}} />
-        </Box>
-    )
-}
