@@ -1,4 +1,3 @@
-import { MinusIcon } from '@chakra-ui/icons'
 import { Box, Grid, GridItem, Heading, Link, LinkBox, LinkOverlay, SimpleGrid, Text } from '@chakra-ui/react'
 import React from 'react'
 
